@@ -1,0 +1,6 @@
+{
+  "name": "Maison Milau · Ambachtelijke Koffiebranderij",
+  "description": "Artisanale micro-roastery in Oudegem (Dendermonde). Met zorg en passie gebrande specialty koffies, webshop, B2B kantoor- en horeca-oplossingen, evenementen en klantenportaal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
